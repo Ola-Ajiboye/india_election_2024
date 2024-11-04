@@ -11,7 +11,7 @@ Data modelng: models built to assess to all data tables.
 ## TOOLS
   SQL Server
   
-## Challenges and Limitations
+## CHALLENGES AND LIMITATIONS
 Discussion on challenges faced, such as data completeness, handling of biases, and limitations due to data privacy constraints.
 Outline of potential data gaps, assumptions made, and limitations impacting the findings
 
