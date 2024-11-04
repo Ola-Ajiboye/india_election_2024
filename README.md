@@ -41,3 +41,5 @@ Which candidate received the highest number of EVM votes in each constituency (T
 Which candidate won and which candidate was the runner-up in each constituency of State for the 2024 elections
 
 For the state of Maharashtra, what are the total number of seats, total number of candidates, total number of parties, total votes (including EVM and postal), and the breakdown of EVM and postal votes
+
+## Check the files for Querys and results
