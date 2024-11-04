@@ -8,15 +8,20 @@ Data Collection: Description of sources used, including official election data, 
 
 ## DATA CLEANING AND PREPARATION
 Removing duplicate: identify duplicate records.
+
 Removing Null vales.
+
 update inconsistence data.
+
 Standardize Data.
+
 Data modelng: models built to assess to all data tables.
 ## TOOLS
   SQL Server
   
 ## CHALLENGES AND LIMITATIONS
 Discussion on challenges faced, such as data completeness, handling of biases, and limitations due to data privacy constraints.
+
 Outline of potential data gaps, assumptions made, and limitations impacting the findings
 
 ## KEY ANALYSIS FINDINGS 
